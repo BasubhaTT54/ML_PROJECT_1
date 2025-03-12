@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: ML-PROJECT
+Version: 0.0.1
+Author: Basu
+Author-email: basubhatt0405@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: seaborn
